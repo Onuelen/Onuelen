@@ -11,8 +11,8 @@ Design to Interface.
 <a href="https://github.com/Onuelen">
   <img src="https://img.shields.io/badge/GitHub-Onuelen-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="[#](https://seongjun-portfolio-two.vercel.app/)">
-  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://seongjun-portfolio-two.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="mailto:skwid17@naver.com">
   <img src="https://img.shields.io/badge/Email-skwid17%40naver.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
